@@ -34,7 +34,7 @@ int main(){
         nbrhypocrite=nbrhypocrite+1;
     }
     }
-     printf("somme %d",somspecial);
-     printf("nombre %d",nbrhypocrite);
+     printf("somme des nombres speciale %d",somspecial);
+     printf("nombre des nombres hypocrite %d",nbrhypocrite);
     return 0;
 }
